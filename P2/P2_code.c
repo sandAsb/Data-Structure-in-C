@@ -554,14 +554,3 @@ void saveToFile() {
     fclose(file);
     printf("Text got saved to file output\n\n");
 }
-
-
-
-
-
-
-
-
-
-
-
